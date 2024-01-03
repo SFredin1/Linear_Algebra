@@ -1,2 +1,2 @@
-# Linear_Algebra
-Linjär algebra
+# Statistiska Metoder
+Statistiska Metoder
